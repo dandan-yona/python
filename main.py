@@ -47,7 +47,7 @@ print(f)
 print(g)
 print(h)
 print(i)
-print(j)
+
 
 
 
